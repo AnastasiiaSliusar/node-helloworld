@@ -1,0 +1,40 @@
+{
+  "name": "node-helloworld",
+  "version": "0.0.1",
+  "description": "node package to display hello world",
+  "main": "./lib/node-helloworld",
+  "dependencies": {
+    "restify": "~2.8.1",
+    "supervisor": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+    "bin": {
+        "node-helloworld": "./bin/node-helloworld"
+    },
+  "author": "Anastasiia Sliusar",
+  "homepage": "https://github.com/AnastasiiaSliusar/node-helloworld/",
+    "directories": {
+        "lib": "./lib",
+        "bin": "./bin"
+        },
+        "repository": {
+            "type": "git",
+                "url": "https://github.com/AnastasiiaSliusar/node-helloworld"
+                  },
+        
+  "license": "MIT",
+  "readme": "node-helloworld\n===========\n\n",
+    "readmeFilename": "README.md",
+      "bugs": {
+          "url": "https://github.com/AnastasiiaSliusar/node-helloworld/issues"
+            },
+              "_id": "node-helloworld@0.0.1",
+                "_from": "node-helloword@"
+}
