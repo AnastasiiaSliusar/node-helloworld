@@ -8,9 +8,9 @@ or by making next steps:<br/>
 * modify the default package.json file:<br/>
 `"dependencies": {`<br/>
         `"node-helloworlds": "git://github.com/AnastasiiaSliusar/node-helloworld.git#master"`<br/>
- `}`<br/><br/>
+ `}`<br/>
 * install the package:<br/>
-`npm i node-helloworlds`<br/><br/>
+`npm i node-helloworlds`<br/>
 <br/>
 
 Example of how use this package you may see in [https://github.com/AnastasiiaSliusar/hello_testing/](https://github.com/AnastasiiaSliusar/hello_testing/)
